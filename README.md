@@ -1,4 +1,4 @@
-# controle-de-temperatura-c
+
 # 🌡️ Controle de Temperatura em C
 
 ## 📌 Sobre o projeto
